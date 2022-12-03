@@ -15,7 +15,19 @@
 - *load data as array of arrays which contains moves for each round;*
 
 ### Part 1
-- *sum points for each round;*
+- *Sum points for each round;*
 
 ### Part 2
-- *choose right move and sum points for each round;*
+- *Choose right move and sum points for each round;*
+
+
+---
+
+
+## **Task 3**
+
+### Part 1
+- *Sum values for each common element;*
+
+### Part 2
+- *Sum values for each common element in group;*
