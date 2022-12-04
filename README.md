@@ -12,7 +12,7 @@
 ---
 
 ## **Task 2**
-- *load data as array of arrays which contains moves for each round;*
+- *Load data as array of arrays which contains moves for each round;*
 
 ### Part 1
 - *Sum points for each round;*
@@ -31,3 +31,16 @@
 
 ### Part 2
 - *Sum values for each common element in group;*
+
+
+---
+
+
+## **Task 4**
+- *Load data as array of arrays which contains the ranges;*
+
+### Part 1
+- *Sum cases when one array contains another;*
+
+### Part 2
+- *Sum cases when one array contains any element from another;*
