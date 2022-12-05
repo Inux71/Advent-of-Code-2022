@@ -44,3 +44,15 @@
 
 ### Part 2
 - *Sum cases when one array contains any element from another;*
+
+
+---
+
+
+## **Task 5**
+- *Edit the file manually 😎*
+- Split data for stacks and moves;
+
+### Part 1
+
+### Part 2
