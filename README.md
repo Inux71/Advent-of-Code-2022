@@ -51,8 +51,20 @@
 
 ## **Task 5**
 - *Edit the file manually 😎*
-- Split data for stacks and moves;
+- *Split data for stacks and moves;*
 
 ### Part 1
 
 ### Part 2
+
+
+---
+
+
+## **Task 6**
+
+### Part 1
+- *Create substrings length of 4 and check if they have distinct characters;*
+
+### Part 2
+- *Create substrings length of 14 and check if they have distinct characters;*
