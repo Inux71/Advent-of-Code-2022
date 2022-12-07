@@ -68,3 +68,16 @@
 
 ### Part 2
 - *Create substrings length of 14 and check if they have distinct characters;*
+
+
+---
+
+
+## **Task 7**
+- *Create a tree structure;*
+
+### Part 1
+- *Sum all directories with size is at most 100000;*
+
+### Part 2
+- *Sort these directories by size ascending and choose the right one;*
