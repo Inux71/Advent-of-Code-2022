@@ -81,3 +81,18 @@
 
 ### Part 2
 - *Sort these directories by size ascending and choose the right one;*
+
+
+---
+
+
+## **Task 8**
+
+### Part 1
+- *Create a list of trees in each direction and check if tree is visible;*
+- *Sum visible trees;*
+
+
+### Part 2
+- *Create a list of trees in each direction and calculate the score;*
+- *Get the highest score;*
