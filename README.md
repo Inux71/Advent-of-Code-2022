@@ -96,3 +96,13 @@
 ### Part 2
 - *Create a list of trees in each direction and calculate the score;*
 - *Get the highest score;*
+
+
+---
+
+
+## **Task 9**
+
+### Part 1 & 2
+- *Store positions which tail visit at least once;*
+- *Get positions count;*
