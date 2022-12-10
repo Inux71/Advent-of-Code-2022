@@ -106,3 +106,16 @@
 ### Part 1 & 2
 - *Store positions which tail visit at least once;*
 - *Get positions count;*
+
+
+---
+
+
+## **Task 10**
+
+### Part 1
+- *Sum strengths for appropriate cycles;*
+
+### Part 2
+- *Draw each line of the picture;*
+- *Get the capital letters;*
