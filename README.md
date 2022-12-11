@@ -119,3 +119,19 @@
 ### Part 2
 - *Draw each line of the picture;*
 - *Get the capital letters;*
+
+
+---
+
+
+## **Task 11**
+- *Create **Monkey** class;*
+
+### Part 1
+- *Count how many items each monkey inspected;*
+- *Get the product of two the highest values after 20th round;*
+
+### Part 2
+- *Reduce the values by the **modulo** of product of all divisors;*
+- *Count how many items each monkey inspected;*
+- *Get the product of two the highest values after 10000th round;*
